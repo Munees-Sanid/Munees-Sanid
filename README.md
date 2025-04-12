@@ -26,14 +26,8 @@ I love turning hardware ideas into reality using HDL and validating them through
 
 ---
 
-## 📂 Projects
-
-- 🔌 **Custom RTL IPs** – ALUs, Counters, Encoders in Verilog  
-- 🔁 **FSM Architectures** – Mealy/Moore FSMs using SystemVerilog  
-- ✅ **Verification Modules** – Testbenches, assertion-based verification  
-- 🧰 **Automation Scripts** – Bash & TCL scripting for design flow
-
----
+## Publications 
+📡 Published a research paper on wall-through imaging using mmWave radar in Springer at the 4th Conference on Computational Intelligence in Machine Learning (CIML).
 
 ## 📈 GitHub Stats
 
