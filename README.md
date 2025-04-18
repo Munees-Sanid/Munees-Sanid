@@ -32,11 +32,19 @@ I love turning hardware ideas into reality using HDL and validating them through
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Munees-Sanid&show_icons=true&theme=tokyonight&cache_seconds=60" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munees-Sanid&layout=compact&theme=tokyonight&cache_seconds=60" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Munees-Sanid&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=false" width="350" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munees-Sanid&layout=compact&theme=tokyonight&langs_count=10&hide_border=false" width="350" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Munees-Sanid&theme=tokyonight&hide_border=false" width="350" />
+</p>
+
+
+
 
 ## 📫 Get in Touch
 
