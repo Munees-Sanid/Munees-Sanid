@@ -3,7 +3,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a **Frontend VLSI Engineer** with a strong foundation in both **RTL Design** and **Design Verification**.  
 I love turning hardware ideas into reality using HDL and validating them through robust verification techniques.
@@ -19,7 +19,7 @@ I love turning hardware ideas into reality using HDL and validating them through
 | Category         | Tools / Skills |
 |------------------|----------------|
 | 💻 Languages      | C, Python, Bash, TCL |
-| 🧠 HDLs           | Verilog, SystemVerilog |
+| ⚙️ HDLs           | Verilog, SystemVerilog |
 | 🔍 Verification   | Testbenches, Assertions, Functional Simulation |
 | 🧰 Tools          | Vivado, ModelSim, VCS, GTKWave |
 | ⚙️ Concepts       | FSMs, RTL Design, Digital Logic, Verification |
