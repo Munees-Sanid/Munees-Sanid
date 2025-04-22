@@ -41,8 +41,11 @@ I love turning hardware ideas into reality using HDL and validating them through
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Munees-Sanid&theme=tokyonight&hide_border=false" width="350" />
+ 
 </p>
-
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Munees-Sanid&theme=github_dark" width="49%"/>
+</p>
 
 
 
